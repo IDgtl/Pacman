@@ -1,0 +1,17 @@
+D:\Работа\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\Работа\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\Работа\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.pdb
+D:\Работа\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\Работа\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\Работа\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.GameWindow.resources
+D:\Работа\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\Работа\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.Cache
+D:\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.exe.config
+D:\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.exe
+D:\Google\Revit Developing\Pacman\Pacman\bin\Debug\Pacman.pdb
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.GameWindow.resources
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.Cache
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.exe
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.pdb
+D:\Google\Revit Developing\Pacman\Pacman\obj\Debug\Pacman.csprojResolveAssemblyReference.cache
